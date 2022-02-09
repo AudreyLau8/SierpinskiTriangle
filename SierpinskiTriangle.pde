@@ -1,12 +1,12 @@
 public void setup()
 {
-
+  size(400,400);
 }
 public void draw()
 {
-
+  sierpinski(0, 400, 150);
 }
-public void mouseDragged()//optional
+public void mouseMoved()//optional
 {
 
 }
